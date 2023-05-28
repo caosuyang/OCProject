@@ -5,9 +5,9 @@ OC Project.
 
 ## 项目截图
 
-![screenshot_1](/Users/myfolders/Downloads/myprojects/OCProject/screenshot/screenshot_1.png)
-![screenshot_2](/Users/myfolders/Downloads/myprojects/OCProject/screenshot/screenshot_1.png)
-![screenshot_2](/Users/myfolders/Downloads/myprojects/OCProject/screenshot/screenshot_2.png)
+![screenshot_1](https://github.com/caosuyang/OCProject/blob/main/screenshot/screenshot_1.png)
+![screenshot_2](https://github.com/caosuyang/OCProject/blob/main/screenshot/screenshot_2.png)
+![screenshot_3](https://github.com/caosuyang/OCProject/blob/main/screenshot/screenshot_3.png)
 
 ## 项目结构
 
@@ -27,9 +27,9 @@ OC Project.
     
 ## profile
 
-pod "AFNetworking",     "~> 3.1.0"  网络请求框架
-pod "MBProgressHUD" 提示弹框框架
-pod 'SDCycleScrollView' 无线轮播框架
+- pod "AFNetworking", "~> 3.1.0"  网络请求框架
+- pod "MBProgressHUD" 提示弹框框架
+- pod 'SDCycleScrollView' 无线轮播框架
 
 ## 核心模块
 
