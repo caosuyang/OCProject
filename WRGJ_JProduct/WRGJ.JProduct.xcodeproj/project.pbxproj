@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		2F1A0A593910292A240BCADB /* libPods-WRGJ.JProduct.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 62ABB9A9129417C4F3632B7E /* libPods-WRGJ.JProduct.a */; };
+		311BF1EA2A237F82001C33D6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 311BF1E92A237F82001C33D6 /* README.md */; };
+		311BF1EF2A2382B2001C33D6 /* screenshot_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 311BF1EC2A2382B2001C33D6 /* screenshot_1.png */; };
+		311BF1F02A2382B2001C33D6 /* screenshot_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 311BF1ED2A2382B2001C33D6 /* screenshot_3.png */; };
+		311BF1F12A2382B2001C33D6 /* screenshot_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 311BF1EE2A2382B2001C33D6 /* screenshot_2.png */; };
 		C61A28E12558DA0900D80437 /* WRRequestAction.m in Sources */ = {isa = PBXBuildFile; fileRef = C61A28E02558DA0900D80437 /* WRRequestAction.m */; };
 		C61A292D2558F1A300D80437 /* WRWantBuyRecordVC.m in Sources */ = {isa = PBXBuildFile; fileRef = C61A292C2558F1A300D80437 /* WRWantBuyRecordVC.m */; };
 		C61A29362558F1ED00D80437 /* WRQuotationListVC.m in Sources */ = {isa = PBXBuildFile; fileRef = C61A29352558F1ED00D80437 /* WRQuotationListVC.m */; };
@@ -58,6 +62,10 @@
 
 /* Begin PBXFileReference section */
 		145BBD92A01FCC67AE5BF512 /* Pods-WRGJ.JProduct.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WRGJ.JProduct.debug.xcconfig"; path = "Target Support Files/Pods-WRGJ.JProduct/Pods-WRGJ.JProduct.debug.xcconfig"; sourceTree = "<group>"; };
+		311BF1E92A237F82001C33D6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		311BF1EC2A2382B2001C33D6 /* screenshot_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot_1.png; sourceTree = "<group>"; };
+		311BF1ED2A2382B2001C33D6 /* screenshot_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot_3.png; sourceTree = "<group>"; };
+		311BF1EE2A2382B2001C33D6 /* screenshot_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot_2.png; sourceTree = "<group>"; };
 		4338ACB08863AA234F5251DE /* Pods-WRGJ.JProduct.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WRGJ.JProduct.release.xcconfig"; path = "Target Support Files/Pods-WRGJ.JProduct/Pods-WRGJ.JProduct.release.xcconfig"; sourceTree = "<group>"; };
 		62ABB9A9129417C4F3632B7E /* libPods-WRGJ.JProduct.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WRGJ.JProduct.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C61A28D12558D62600D80437 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
@@ -143,6 +151,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		311BF1EB2A2382B2001C33D6 /* screenshot */ = {
+			isa = PBXGroup;
+			children = (
+				311BF1EC2A2382B2001C33D6 /* screenshot_1.png */,
+				311BF1ED2A2382B2001C33D6 /* screenshot_3.png */,
+				311BF1EE2A2382B2001C33D6 /* screenshot_2.png */,
+			);
+			name = screenshot;
+			path = ../screenshot;
+			sourceTree = "<group>";
+		};
 		9D6BEC85299D45D98265F336 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -255,6 +274,8 @@
 		C6624ECE2554FD1900B812F7 = {
 			isa = PBXGroup;
 			children = (
+				311BF1E92A237F82001C33D6 /* README.md */,
+				311BF1EB2A2382B2001C33D6 /* screenshot */,
 				C6624ED92554FD1900B812F7 /* WRGJ.JProduct */,
 				C6624EF52554FD1A00B812F7 /* WRGJ.JProductTests */,
 				C6624F002554FD1A00B812F7 /* WRGJ.JProductUITests */,
@@ -558,12 +579,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				311BF1F02A2382B2001C33D6 /* screenshot_3.png in Resources */,
 				C6624EEA2554FD1A00B812F7 /* LaunchScreen.storyboard in Resources */,
 				C66F41A4255D174D009F3E29 /* title_image.jpg in Resources */,
 				C6624EE72554FD1A00B812F7 /* Assets.xcassets in Resources */,
+				311BF1EF2A2382B2001C33D6 /* screenshot_1.png in Resources */,
 				C66F41B3255D1798009F3E29 /* item_03.jpg in Resources */,
+				311BF1F12A2382B2001C33D6 /* screenshot_2.png in Resources */,
 				C68DC55F255BA9F2006F379E /* banner_01.jpg in Resources */,
 				C66250462555552D00B812F7 /* logo_copy.jpg in Resources */,
+				311BF1EA2A237F82001C33D6 /* README.md in Resources */,
 				C66F41A9255D1756009F3E29 /* item_01.jpg in Resources */,
 				C66F41AE255D177E009F3E29 /* item_02.jpg in Resources */,
 			);
