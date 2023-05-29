@@ -8,6 +8,7 @@ OC Project.
 ![screenshot_1](https://github.com/caosuyang/OCProject/blob/main/screenshot/screenshot_1.png)
 ![screenshot_2](https://github.com/caosuyang/OCProject/blob/main/screenshot/screenshot_2.png)
 ![screenshot_3](https://github.com/caosuyang/OCProject/blob/main/screenshot/screenshot_3.png)
+![screenshot_4](https://github.com/caosuyang/OCProject/blob/main/screenshot/screenshot_4.png)
 
 ## 项目结构
 
